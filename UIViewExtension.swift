@@ -2,7 +2,7 @@
 //  UIViewExtension.swift
 //  Extensions
 //
-//  Created by Nicki Minaj Fanboy #1 on 13.03.19.
+//  Created by watever91 on 13.03.19.
 //
 
 import Foundation
