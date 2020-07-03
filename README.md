@@ -1,2 +1,2 @@
 # iosswiftextension
-some useful extensions for ever iOS/Swift-Developer
+some useful extensions for every iOS/Swift-Developer
